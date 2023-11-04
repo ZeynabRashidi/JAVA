@@ -18,7 +18,7 @@ import java.util.Set;
 
 public class ProcessingAnnotations {
     private final Logger logger = LogManager.getLogger(ProcessingAnnotations.class.getName());
-    private static final String BASE_PACKAGE = "com.isc.cbs";
+    private static final String BASE_PACKAGE = "com.cbs";
 
     public static void main(String[] args) {
         ProcessingAnnotations processingAnnotations = new ProcessingAnnotations();

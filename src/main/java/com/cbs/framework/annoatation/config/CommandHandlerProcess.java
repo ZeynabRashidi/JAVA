@@ -15,7 +15,7 @@ import java.util.Set;
  */
 //@Configuration
 public class CommandHandlerProcess {
-    private static final String BASE_PACKAGE = "com.isc.cbs.framework";
+    private static final String BASE_PACKAGE = "com.cbs.framework";
 
    // @EventListener(ApplicationReadyEvent.class)
    // @Bean

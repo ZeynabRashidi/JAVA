@@ -25,7 +25,7 @@ import java.util.stream.Stream;
  */
 @Configuration
 public class CommandDispatcherProcess {
-    private static final String BASE_PACKAGE = "com.isc.cbs.framework";
+    private static final String BASE_PACKAGE = "com.cbs.framework";
 
     @Autowired
     private ICommandDispatcher icommandDispatcher;
